@@ -33,7 +33,7 @@ All dashboards were created using Tableau Public.
 
 ## 📁 Files Included
 - OnlineRetailDashboard.twbx – Tableau packaged workbook
-- onlineretaildataset.xlsx – Online Reatil Dataset
+- Online Retail Data Set.xlsx – Online Reatil Dataset
 
 
 ## 🔗 Live Dashboard
